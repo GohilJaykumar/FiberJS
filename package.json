@@ -1,0 +1,29 @@
+{
+  "name": "ngx-fiber-js",
+  "version": "0.0.1",
+  "description": "A simple Fiber JS plugin with ad/edit/delete canvas functionality with text and images",
+  "author": "Gohil Jaykumar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gohiljaykumartechnomark/FiberJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gohiljaykumartechnomark/FiberJs/issues"
+  },
+  "homepage": "https://github.com/gohiljaykumartechnomark/FiberJs",
+  "keywords": [
+    "angular",
+    "javascript",
+    "tyepescript",
+    "fiber-js",
+    "canvas",
+    "card"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
