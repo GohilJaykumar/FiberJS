@@ -1,6 +1,6 @@
 {
   "name": "ngx-fiber-js",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A simple Fiber JS plugin with ad/edit/delete canvas functionality with text and images",
   "author": "Gohil Jaykumar",
   "repository": {
